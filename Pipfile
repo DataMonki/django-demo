@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 install = "*"
 django = "==3.0.1"
+gunicorn = "==19.9.0"
 
 [dev-packages]
 
